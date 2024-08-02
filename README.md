@@ -11,10 +11,7 @@ Gameplay
 Credits
 Installation
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/snake-game.git
-cd snake-game
+
 Ensure you have Python installed:
 This game is written in Python. You can download and install Python from here.
 
